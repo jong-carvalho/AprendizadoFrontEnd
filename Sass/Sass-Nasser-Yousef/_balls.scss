@@ -1,0 +1,37 @@
+
+.bola1 {
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 50%;
+
+    background-color: $primaryColor ;
+
+    a {
+        color: $neutraColor;
+    }
+
+    &:hover{
+        background-color: pink;
+    }
+}
+
+.bola2 {
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 50%;
+
+    background-color: $neutraColor ;
+
+    
+}
+
+.bola3 {
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 50%;
+
+    background-color: $secundaryColor ;
+}
